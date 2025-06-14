@@ -1,0 +1,13 @@
+
+scene:
+  humanoid_usd: megatron_usd/megatron_humanoid.usd
+  terrain_type: mixed_obstacles
+  gravity: -9.81
+
+groot_n1:
+  policy_file: pretrained/groot_n1_gait_v1.pth
+
+training:
+  target_speed: 1.2
+  balance_penalty: 0.5
+  step_length: 0.8

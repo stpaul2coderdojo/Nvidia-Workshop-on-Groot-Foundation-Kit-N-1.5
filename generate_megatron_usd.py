@@ -1,0 +1,1 @@
+# Script to generate Megatron humanoid USD scene using Omniverse Kit API

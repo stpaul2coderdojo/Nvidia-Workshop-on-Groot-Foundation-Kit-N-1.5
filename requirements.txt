@@ -1,0 +1,9 @@
+
+torch
+torch_geometric
+nvidia-isaac-sim
+nvidia-omniverse
+pynput
+matplotlib
+numpy
+pandas
